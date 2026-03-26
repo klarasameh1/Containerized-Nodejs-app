@@ -60,10 +60,10 @@ docker-compose up
 ## 📸 Screenshots
 
 **Web Interface:**
-![Web Screenshot](web-screenshot.png)
+![Web Screenshot](screenshots/webview.png)
 
 **Terminal / Docker Logs:**
-![Terminal Screenshot](terminal-screenshot.png)
+![Terminal Screenshot](screenshots/docker1terminal.png)
 
 > *Make sure your screenshots are in the repo root with these exact names.*
 
