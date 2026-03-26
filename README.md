@@ -80,5 +80,3 @@ If you have suggestions or improvements, feel free to **open an issue** or **sub
 
 * [GitHub Repository](https://github.com/klarasameh1/Containerized-Nodejs-app)
 
-```
-
