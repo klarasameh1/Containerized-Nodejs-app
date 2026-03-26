@@ -1,4 +1,4 @@
-# 🚀 My DevOps Journey: Node.js + Redis Project
+# 🚀 Containerize Node.js + Redis Project
 
 For the past period, I’ve been diving into the **DevOps field**, trying to understand how real systems work behind the scenes.  
 Instead of only learning concepts, I decided to get hands-on and build small projects to see everything in action.  
